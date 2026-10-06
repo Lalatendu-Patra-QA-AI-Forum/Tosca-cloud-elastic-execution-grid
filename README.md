@@ -1,3 +1,13 @@
+## 📘 Complete Tosca Cloud E2G Setup Guide
+
+For a complete end-to-end implementation, refer to the detailed PDF guide:
+
+👉 *[Tosca Cloud E2G – Complete Setup Guide](./Tosca%20Cloud%20-%20Elastic%20execution%20grid%20%28E2G%29%20.pdf)*
+
+The guide covers the E2G setup from scratch with detailed step-by-step instructions and screenshots.
+
+---
+
 # 🌐 Connecting Tricentis Tosca Commander with Tosca Cloud Elastic Execution Grid (E2G)
 
 Elastic Execution Grid (E2G) allows us to run Tosca on-premise tests seamlessly on the Tosca Cloud. As a core component of Tosca Cloud, it enables unattended test runs in parallel across multiple agents. E2G automatically distributes your Execution Lists across all available cloud and team agents simultaneously, dramatically shortening regression cycles and optimizing your delivery pipeline.
@@ -195,6 +205,6 @@ Click on the ribbon to keep only the central section on the forefront
 
 ---
 
-## 🎨 INFROGRAPHIC BLUEPRINT FLOW
+## 🎨 INFOGRAPHIC BLUEPRINT FLOW
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/fbc43856-86cd-4bae-b9ae-7b2d2ce012ad" />
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/03af2bd7-3f51-4f7d-ac7a-3e66387b73af" />
